@@ -1,0 +1,5 @@
+Block: 7
+Nonce: 81293
+Tx: $ 3.50 From: Mallory -> Nathan
+Prev: 00007d834c09f967d85300b3c4a70adb759904210775208e4611875fa6ae3fe0
+Final Hash: 0000a8aa519f522304af222ee0e9fa6045b474d2dd6b4f24d01beb82b49be59f

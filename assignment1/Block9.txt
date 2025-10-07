@@ -1,0 +1,5 @@
+Block: 9
+Nonce: 5140
+Tx: $ 60 From: Quinn -> Rachel
+Prev: 00003cf3b2f539787955eea79e3c9e6edfe2ad470120dc94a5251dae50b6b74a
+Final Hash: 000029ef13af7f35a73cc3ffefd192d7449e1ef27ac87e585e48ad5be80e42e8

@@ -1,0 +1,5 @@
+Block: 4
+Nonce: 71290
+Tx: $ 250 From: Grace -> Heidi
+Prev: 000061c817706eb73385c17a2e31a43948a3f8d9ae1e03f3f193921bf8cb1599
+Final Hash: 00007fc614c0d90f4ea79e155adf9c7ee82d3355ff0b301ec9cf2fab30f867e6

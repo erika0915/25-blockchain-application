@@ -1,0 +1,5 @@
+Block: 10
+Nonce: 38357
+Tx: $ 180 From: Steve -> Trudy
+Prev: 000029ef13af7f35a73cc3ffefd192d7449e1ef27ac87e585e48ad5be80e42e8
+Final Hash: 00007ad85598be554d25e13e894b01ecfe2b04ba2072b13693f803bdeb51a0f8

@@ -1,0 +1,5 @@
+Block: 8
+Nonce: 2967
+Tx: $ 45 From: Olivia -> Paul
+Prev: 0000a8aa519f522304af222ee0e9fa6045b474d2dd6b4f24d01beb82b49be59f
+Final Hash: 00003cf3b2f539787955eea79e3c9e6edfe2ad470120dc94a5251dae50b6b74a
